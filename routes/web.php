@@ -18,7 +18,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-Route::get('/', [AccueilController::class, 'index'])->name('/');
+Route::get('/', [AccueilController::class, 'index'])->name('accueil');
 
 Route::get('/cours', [CoursController::class, 'index'])->name('cours');
 
