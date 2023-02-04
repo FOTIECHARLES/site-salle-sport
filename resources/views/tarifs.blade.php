@@ -3,8 +3,8 @@
 @section('page_title', 'tarifs')
 
 @section('vite')
-    @parent
-    @vite(['resources/css/tarifs.css'])
+@parent
+
 @endsection
 
 @section('content')

@@ -4,7 +4,7 @@
 
 @section('vite')
     @parent
-    @vite(['resources/css/cours.css'])
+   
 @endsection
 
 @section('content')

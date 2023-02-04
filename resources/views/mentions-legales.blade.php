@@ -4,7 +4,7 @@
 
 @section('vite')
     @parent
-    @vite(['resources/css/mentions-legales.css'])
+    
 @endsection
 
 @section('content')
