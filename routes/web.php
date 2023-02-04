@@ -18,11 +18,11 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-Route::get('/', [AccueilController::class, 'index'])->name('accueil');
+Route::get('/', [AccueilController::class, 'index'])->name('/');
 
 Route::get('/cours', [CoursController::class, 'index'])->name('cours');
 
-Route::get('/tarifs', [TarifsController::class, 'index'])->name('tarif');
+Route::get('/tarifs', [TarifsController::class, 'index'])->name('tarifs');
 
 Route::get('/contact', [ContactController::class, 'index'])->name('contact');
 
