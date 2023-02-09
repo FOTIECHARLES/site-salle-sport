@@ -9,7 +9,17 @@
 
 @section('content')
     <h2>Tarifs</h2>
-    <p>
-        Vous êtes sur la page tarifs
-    </p>
+    <h3>
+        Tarifs: La santé n'a pas de prix
+    </h3>
+<nav>
+  <ul>
+  <li><p> Adhésion annuelle à l'association: 15 eur</p></li>
+  <li><p> La séance : 10 eur</p></li>
+  <li><p> Le carnet de 10 séances : 90 eur</p></li>
+  <li><p> abonnement mensuel illimité sans cours : 30 eur</p></li>
+  <li><p> abonnement mensuel illimité avec cours : 60 eur</p></li>
+  </ul>
+</nav>
+
 @endsection

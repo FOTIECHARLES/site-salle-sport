@@ -20,14 +20,24 @@
         @show
     </header>
 
+
     <div class="container">
         @yield('content')
     </div>
 
     <footer>
         @section('footer')
-            Copyright 2022
+            Copyright FOTIE CHARLES 2023
+            <li><a href="{{ route('accueil') }}">Accueil</a></li>
+            <li><a href="{{ route('cours') }}">Cours</a></li>
+            <li><a href="{{ route('tarifs') }}">Tarifs</a></li>
+            <li><a href="{{ route('contact') }}">Contact</a></li>
             <li><a href="{{ route('mentions-legales') }}">Mentions légales</a></li>
+            
+            
+           
+            
+
         @show
     </footer>
 </body>
