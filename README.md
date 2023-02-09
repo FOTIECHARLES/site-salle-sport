@@ -36,4 +36,6 @@ Pour voir la page d'accueil,ouvrez : [Accueil](http://127.0.0.1:8000)
 
 Les images suivantes ont été utilisées :
 
-[woman in white shirt eating photo – Free Image on Unsplash](https://unsplash.com/photos/CAhjZmVk5H4)
+
+[uomo in canotta arancione e pantaloncini neri che fanno esercizio photo – Photo Saskatchewan Gratuite sur Unsplash](https://unsplash.com/fr/photos/aclkvEMIfL8)
+[tapis roulant in palestra photo – Photo Aptitude Gratuite sur Unsplash](https://unsplash.com/fr/photos/pCT8ag1o3nU)
