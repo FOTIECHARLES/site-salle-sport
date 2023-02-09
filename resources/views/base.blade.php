@@ -16,7 +16,7 @@
     <header>
         <h1>Site de Salle de Sport</h1>
         @section('banner')
-            <img src="{{ asset('img/banner.jpg') }}" alt="Description de la bannière par défaut">
+            <img src="{{ asset('img/banner.jpg') }}" alt="">
         @show
     </header>
 
@@ -27,17 +27,14 @@
 
     <footer>
         @section('footer')
-            Copyright FOTIE CHARLES 2023
+            <nav>  
             <li><a href="{{ route('accueil') }}">Accueil</a></li>
             <li><a href="{{ route('cours') }}">Cours</a></li>
             <li><a href="{{ route('tarifs') }}">Tarifs</a></li>
             <li><a href="{{ route('contact') }}">Contact</a></li>
             <li><a href="{{ route('mentions-legales') }}">Mentions légales</a></li>
-            
-            
-           
-            
-
+            Copyright FOTIE CHARLES 2023
+            </nav>  
         @show
     </footer>
 </body>
