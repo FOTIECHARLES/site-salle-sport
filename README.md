@@ -4,9 +4,10 @@ projet de site de salle de sport construit avec laravel 9.
 
 ## Prérequis
 
-- PHP 8.1
--composer 2.4.4
-- nodejs 18.12.1 et npm 8.19.2
+- vscode
+- composer 2.4.4
+- artisan
+- npm 8.19.2
 
 ## Installation
 
