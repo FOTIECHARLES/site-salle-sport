@@ -11,6 +11,13 @@ projet de site de salle de sport construit avec laravel 9.
 
 ## Installation
 
+créer un dossier dans le terminal avec la commande :
+
+```
+composer create-project laravel/laravel site-salle-sport
+```
+puis une fois le dossier créée à l'intérieur de ce dossier,tapez la commande çi dessous dans le terminal
+
 ```bash
 composer install
 npm install
