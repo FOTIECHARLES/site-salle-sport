@@ -3,6 +3,16 @@ body {
 
 }
 
+header { 
+    display: flex;
+    justify-content: space-between;
+    list-style: none;   
+    padding:0;
+    margin:1rem ;
+    text-decoration-color: black;
+}
+
+
 .img1{
     font-size: 50%;
     width: 50%;
@@ -11,4 +21,26 @@ body {
 .img2{
     font-size: 50%;
     width: 50%;
+}
+
+.yoga{
+    font-size: 30%;
+    width: 30%;
+}
+.hiit{
+    font-size: 30%;
+    width: 30%;
+}
+.pilate{
+    font-size: 30%;
+    width: 30%;
+}
+.boxe {
+     font-size: 30%;
+    width: 30%;
+}
+
+.zumba {
+    font-size: 30%;
+    width: 30%;
 }
