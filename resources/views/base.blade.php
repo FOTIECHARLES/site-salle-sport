@@ -21,8 +21,7 @@
         <li><a href="{{ route('accueil') }}">Accueil</a></li>
         <li><a href="{{ route('cours') }}">Cours</a></li>
         <li><a href="{{ route('tarifs') }}">Tarifs</a></li>
-        <li><a href="{{ route('contact') }}">Contact</a></li>
-        <li><a href="{{ route('mentions-legales') }}">Mentions légales</a></li> 
+        <li><a href="{{ route('contact') }}">Contact</a></li> 
     </header>
 
 
@@ -32,7 +31,8 @@
 
     <footer>
         @section('footer')
-            <nav>  
+            <nav> 
+                <li><a href="{{ route('mentions-legales') }}">Mentions légales</a></li> 
             Copyright FOTIE CHARLES 2023
             </nav>  
         @show
