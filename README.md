@@ -25,7 +25,8 @@ npm install
 
 ## Utilisation
 
-Ouvrir le dossier qui vient d'être créé avec vscode puis éxécutez les actions ci-dessous
+Ouvrir le dossier qui vient d'être créé avec vscode puis éxécutez les actions ci-dessous.
+
 Dans un premier terminal,lancez :
 
 ```bash
