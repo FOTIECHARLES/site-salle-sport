@@ -9,18 +9,18 @@ header {
     list-style: none;   
     padding:0;
     margin:1rem ;
-    text-decoration-color: black;
+
+}
+
+.menu{
+    color: black;
 }
 
 
-.img1{
+.img{
     font-size: 50%;
     width: 50%;
 
-}
-.img2{
-    font-size: 50%;
-    width: 50%;
 }
 
 .yoga{
