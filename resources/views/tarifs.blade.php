@@ -14,11 +14,11 @@
     </h3>
 <nav>
   <ul>
-  <li><p> Adhésion annuelle à l'association: 15 eur</p></li>
-  <li><p> La séance : 10 eur</p></li>
-  <li><p> Le carnet de 10 séances : 90 eur</p></li>
-  <li><p> abonnement mensuel illimité sans cours : 30 eur</p></li>
-  <li><p> abonnement mensuel illimité avec cours : 60 eur</p></li>
+  <li><p> Adhésion annuelle à l'association: 15 euros</p></li>
+  <li><p> La séance : 10 euros</p></li>
+  <li><p> Le carnet de 10 séances : 90 euros</p></li>
+  <li><p> abonnement mensuel illimité sans cours : 30 euros</p></li>
+  <li><p> abonnement mensuel illimité avec cours : 60 euros</p></li>
   </ul>
 </nav>
 
