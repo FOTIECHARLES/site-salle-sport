@@ -15,15 +15,15 @@
 <body>
     <header>
         @section('banner')
-            <img src="{{ asset('img/banner.jpg') }}" alt="Fitness world">
+            <img src="{{ asset('img/banner.jpg') }}" alt="FP">
         @show
-        <h1>Site de Salle de Sport</h1>
-        <li><a href="{{ route('accueil') }}">Accueil</a></li>
-        <li><a href="{{ route('cours') }}">Cours</a></li>
-        <li><a href="{{ route('tarifs') }}">Tarifs</a></li>
-        <li><a href="{{ route('contact') }}">Contact</a></li> 
+        <h1>FITNESS PARKY</h1>
+        <li><a href="{{ route('accueil') }}" class='menu'>Accueil</a></li>
+        <li><a href="{{ route('cours') }}" class='menu'>Cours</a></li>
+        <li><a href="{{ route('tarifs') }}" class='menu'>Tarifs</a></li>
+        <li><a href="{{ route('contact') }}" class='menu'>Contact</a></li> 
     </header>
-
+   
 
     <div class="container">
         @yield('content')
@@ -32,10 +32,11 @@
     <footer>
         @section('footer')
             <nav> 
-                <li><a href="{{ route('mentions-legales') }}">Mentions légales</a></li> 
+                <li><a href="{{ route('mentions-legales') }}" class='menu'>Mentions légales</a></li> 
             Copyright FOTIE CHARLES 2023
             </nav>  
         @show
+        
     </footer>
 </body>
 </html >

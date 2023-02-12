@@ -10,7 +10,7 @@
 @section('content')
     <h2>Tarifs</h2>
     <h3>
-        Tarifs: La santé n'a pas de prix
+     La santé n'a pas de prix: chez F.P elle vaut seulement 10 euros ! la séance
     </h3>
 <nav>
   <ul>
