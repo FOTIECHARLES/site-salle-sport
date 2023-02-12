@@ -16,7 +16,7 @@ créer un dossier dans le terminal avec la commande :
 ```
 composer create-project laravel/laravel site-salle-sport
 ```
-puis une fois le dossier créée à l'intérieur de ce dossier,tapez la commande çi dessous dans le terminal
+puis une fois le dossier créé à l'intérieur de ce dossier,tapez la commande ci dessous dans le terminal
 
 ```bash
 composer install
@@ -25,6 +25,7 @@ npm install
 
 ## Utilisation
 
+Ouvrir le dossier qui vient d'être créé avec vscode puis éxécutez les actions ci-dessous
 Dans un premier terminal,lancez :
 
 ```bash
