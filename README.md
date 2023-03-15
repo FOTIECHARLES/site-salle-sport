@@ -75,7 +75,7 @@ Les images suivantes ont été utilisées :
 
 Pour commencer veuiller cloner ce projet avec git clone, en spécifiant le nom ssh pour cela vous pouvez saisir la commande suivante:
 
-`git@github.com:FOTIECHARLES/site-salle-sport.git`
+`git clone git@github.com:FOTIECHARLES/site-salle-sport.git`
 
 Veuillez ouvrir le dossier du projet qui vient d'être cloné avec votre éditeur code (Vs code pour être à l'intérieur du projet cloné)
 
