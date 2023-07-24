@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ config('app.locale')  }}">
 <head>
+    <div>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,6 +24,7 @@
         <li><a href="{{ route('tarifs') }}" class='menu'>Tarifs</a></li>
         <li><a href="{{ route('contact') }}" class='menu'>Contact</a></li> 
     </header>
+    </div>
    
 
     <div class="container">

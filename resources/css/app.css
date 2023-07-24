@@ -1,14 +1,24 @@
+/*html{
+	background: lightgreen;
+    margin : auto; /* fusion des marges 
+    padding: auto; }*/
+
 body {
     background-color: lightgreen;
 
 }
+
+div  
 
 header { 
     display: flex;
     justify-content: space-between;
     list-style: none;   
     padding:0;
-    margin:1rem ;
+    margin:0rem ;
+    background-color:white;
+    color: lightgreen;
+   
 
 }
 
